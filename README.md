@@ -13,13 +13,13 @@ Project 1 is my first assignment in this course; an introduction to the space of
 
 ### Anything else?
 If you are interested, feel free to check out my:
-* [GitHub](https://github.com/angheliefu) page! (*It will get better I promise*)
+* [GitHub](https://github.com/angheliefu) page! 
 * [LinkedIn](https://www.linkedin.com/in/anghelina-furman-b7bb15272/) profile!
 * [Tableau](https://public.tableau.com/app/profile/anghelina.furman/vizzes) projects!
 
-  ## Otherwise, have a good rest of the day!
-  ![thankyoucorgi](https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47gbqbjzx09f4cyjrazy70oaz461lqwvcohe81uxmc&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
+(*They will get better I promise*)
+## Otherwise, have a good rest of the day!
+![thankyoucorgi](https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47gbqbjzx09f4cyjrazy70oaz461lqwvcohe81uxmc&ep=v1_gifs_related&rid=giphy.gif&ct=g)
  
 
 
