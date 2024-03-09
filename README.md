@@ -1,5 +1,5 @@
 # Welcome to the stats220 repository!
-The purpose of this repository is to store material for **Project 1** of the **STATS220** course (and possibly to store all other projects!?).
+Currently, the purpose of this repository is to complete one of the tasks for **Project 1** of the **STATS220** course.
 
 ## What is STATS220?
 STATS220 is a course I am currently undertaking at the University of Auckland, led by the wonderful Anna Fergusson. In brief, this course explores the handling of data, including _"data aqcuisition, storage, retrieval, manipulation, and management."_ For more details on the course, visit UoA's [course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213) for STATS220.
