@@ -11,7 +11,7 @@ Project 1 is my first assignment in this course; an introduction to the space of
 2. Creating a meme
 3. Creating an HTML
 
-### Anything else?
+## Anything else?
 If you are interested, feel free to check out my:
 * [GitHub](https://github.com/angheliefu) page! 
 * [LinkedIn](https://www.linkedin.com/in/anghelina-furman-b7bb15272/) profile!
