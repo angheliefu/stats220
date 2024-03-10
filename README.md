@@ -1,8 +1,9 @@
 # Welcome to the stats220 repository!
 Currently, the purpose of this repository is to complete one of the tasks for **Project 1** of the **STATS220** course.
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxuanVoamM5dXFnMGNzamE4empiNTY1Z3A5cXByZ3pldzdtam1hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif)
 
 ## What is STATS220?
-STATS220 is a course I am currently undertaking at the University of Auckland, led by the wonderful Anna Fergusson. In brief, this course explores the handling of data, including _"data aqcuisition, storage, retrieval, manipulation, and management."_ For more details on the course, visit UoA's [course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213) for STATS220.
+STATS220 is a course I am currently undertaking at the University of Auckland, led by Anna Fergusson. In brief, this course explores the handling of data, including _"data aqcuisition, storage, retrieval, manipulation, and management."_ - ([STATS220 Course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)).
 
 
 ## What is Project 1?
@@ -18,11 +19,8 @@ If you are interested, feel free to check out my:
 * [Tableau](https://public.tableau.com/app/profile/anghelina.furman/vizzes) projects!
 
 (*They will get better I promise*)
-## Otherwise, have a good rest of the day!
-![thankyoucorgi](https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47gbqbjzx09f4cyjrazy70oaz461lqwvcohe81uxmc&ep=v1_gifs_related&rid=giphy.gif&ct=g)
- 
-
-
+# Otherwise, have a good rest of the day!
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRiMTAxNWV6bTkyMmVvb3liM3lsYzM0bGo0ZWdmcHh0emxjeXM3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3cwLpdCalQrML78gbe/giphy.gif)
 
 
 
