@@ -3,7 +3,7 @@ Currently, the purpose of this repository is to complete one of the tasks for **
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxuanVoamM5dXFnMGNzamE4empiNTY1Z3A5cXByZ3pldzdtam1hbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif)
 
 ## What is STATS220?
-STATS220 is a course I am currently undertaking at the University of Auckland, led by Anna Fergusson. In brief, this course explores the handling of data, including _"data aqcuisition, storage, retrieval, manipulation, and management."_ - ([STATS220 Course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213)).
+STATS220 is a course I am currently undertaking at the University of Auckland, led by Anna Fergusson. In brief, this course explores the handling of data, including _"data aqcuisition, storage, retrieval, manipulation, and management."_ - ( check out the [STATS220 Course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1213) for more details).
 
 
 ## What is Project 1?
